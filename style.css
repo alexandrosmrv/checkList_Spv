@@ -1,0 +1,102 @@
+
+body{
+
+   background-color:#FAF8F1;
+   font-family: 'Merriweather', serif;
+   padding-left: 0.5rem;
+       
+}
+img{
+    height: fit-content;
+    align-items: center;
+    margin-right: 1.3rem;
+    border-style: hidden;
+    border-radius: 1.5rem;
+    float: left;
+    border-style: outset;
+    border-color: #FAF8F1;
+    
+}
+.imgjs{
+    border-style: outset;
+    border-color: red;
+    
+    
+}
+
+.copyr{
+    text-align: center;
+    font-size: x-small;
+}
+.headerh2{
+    
+    border-style: outset;
+    border-radius: 10px;
+    height: fit-content;
+    width: fit-content;
+
+}
+
+.container2, .container3,.container4,.container5,.container6{
+display: inline-flex;
+}
+
+.containerClassJs
+{
+    text-decoration: underline;
+color:blue;
+}
+.container2items1,.container2items2,.container3items1,.container3items2,.container4items1,
+.container5items1,.container6items1
+{
+    padding: 10px 20px;
+}
+.container4items2{
+    padding: 10px 70px;
+}
+.container5items2{
+    padding: 10px 80px;
+}
+.container6items2{
+    padding: 10px 95px; 
+}
+
+.testdrop{
+    background-color:#EEEDED;
+    border-radius: 10px;
+    border-style: none;
+    height: 1.5rem;
+    text-align: center;
+    }
+
+    .testdrop1{
+        background-color:#EEEDED;
+        border-radius: 10px;
+        border-style: none;
+        height: 1.5rem;
+        width: 16rem;
+        text-align: center; 
+        font-size: 1rem; 
+    }
+    .testdrop3{
+        background-color:#EEEDED;
+        border-radius: 10px;
+        border-style: none;
+        height: 1.5rem;
+        width: 7.8rem;
+        text-align: center;
+        font-size: 0.9rem; 
+    }
+    .savebutton{
+        
+        height: 2rem;
+        width:8rem;
+        border-radius: 10px;
+        border-style: none;
+        color: black;
+        }
+        .savebuttonjs{
+            background-color: red;
+            color: white;
+        }
+
