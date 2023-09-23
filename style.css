@@ -2,10 +2,11 @@
 body{
 
    background-color:#FAF8F1;
-   font-family: 'Merriweather', serif;
+   font-family: 'Noto Sans Display', sans-serif;
    padding-left: 0.5rem;
        
 }
+
 img{
     height: fit-content;
     align-items: center;
@@ -46,19 +47,22 @@ display: inline-flex;
     text-decoration: underline;
 color:blue;
 }
-.container2items1,.container2items2,.container3items1,.container3items2,.container4items1,
+.container2items1,.container2items2,.container3items1,.container4items1,
 .container5items1,.container6items1
 {
-    padding: 10px 20px;
+    padding: 10px 15px;
+}
+.container3items2{
+    padding: 10px 50px;
 }
 .container4items2{
     padding: 10px 70px;
 }
 .container5items2{
-    padding: 10px 80px;
+    padding: 10px 75px;
 }
 .container6items2{
-    padding: 10px 95px; 
+    padding: 10px 100px; 
 }
 
 .testdrop{
