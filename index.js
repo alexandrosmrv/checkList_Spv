@@ -16,7 +16,7 @@ $(".form-check").hover(function() {
 });
 
 let datePlace = document.getElementById("realDate") 
-datePlace.innerText = theDay()+" "+ theNumDay()+" / "+ theMonth() + " / " + theYear()
+datePlace.innerText = theDay()+" "+ theNumDay()+"/"+ theMonth() + "/" + theYear()
 
 function theDay (){
    var d= new Date();
